@@ -22,7 +22,6 @@
                      'ADGKK4Ccmrb9JYocUNUXCHbnWhhuvZAB21YYVBKXP78h',
                      '3smaMQSxA3DYXSgVcWYnveiXEo7B9BQ9bgnjQfJMu88u',
                      '4NGqeSxu8aE4GRaiEUoVzq7mKP5C4Pxo5GLGjqMSnxaA',
-                     'HzBx8PP86pyPrrboTHqPYWhxnEB5vXDHDBP8femWfPTS',
                      'BESTa8udW1ZLUV6b66uJJVyqmhKy7t8hud67ymVYfkKf'
                     ];
 
